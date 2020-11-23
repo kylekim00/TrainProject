@@ -22,7 +22,7 @@ public class Test {
 		line1.delStation(0);
 		System.out.println(shibuya.getTracks());
 		System.out.println(line1);
-		
+		System.out.println(line7);
 	}
 
 }
